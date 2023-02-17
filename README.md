@@ -1,3 +1,3 @@
 # COAL-PROJECT
 
-Computer Organization & Assembly language Project. 
+Computer Organization & (Assembly language based Project.) 
